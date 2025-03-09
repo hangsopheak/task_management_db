@@ -1,0 +1,306 @@
+{
+    "categories": [
+        {
+            "id": "1d4edbb1-8216-49a3-96d5-c8e1e6ac9ede",
+            "name": "Work",
+            "colorCode": "#FF9800"
+        },
+        {
+            "id": "1addf4d6-48b2-4a86-b5e9-7b9753e7efb2",
+            "name": "Shopping",
+            "colorCode": "#4CAF50"
+        },
+        {
+            "id": "60266f90-43a2-4ae5-bcea-8b2d9f692ffc",
+            "name": "Fitness",
+            "colorCode": "#03A9F4"
+        },
+        {
+            "id": "7d1ddddb-979d-4aa8-a560-0533a1ebcb69",
+            "name": "Personal",
+            "colorCode": "#9C27B0"
+        },
+        {
+            "id": "89ea56ab-7754-4ab3-b26d-60d2d29e41a0",
+            "name": "Health",
+            "colorCode": "#E91E63"
+        },
+        {
+            "id": "daf4403d-cddb-4b95-b4fa-4a933bf4a58d",
+            "name": "Family",
+            "colorCode": "#795548"
+        },
+        {
+            "id": "f5033245-1cdd-41a7-aef4-de4eb9d8ed05",
+            "name": "Finance",
+            "colorCode": "#FF5722"
+        },
+        {
+            "id": "f9c02146-66b4-478d-a2ae-bf6000af28a3",
+            "name": "Learning",
+            "colorCode": "#009688"
+        },
+        {
+            "id": "9a865d60-0e4a-45c4-acd9-a0ea98e0cfea",
+            "name": "Writing",
+            "colorCode": "#673AB7"
+        },
+        {
+            "id": "9047ecf4-cfa0-4bce-ae1d-c5e266d104aa",
+            "name": "Wellness",
+            "colorCode": "#8BC34A"
+        },
+        {
+            "id": "19720198-be8d-48fa-bd96-9b14c2329f83",
+            "name": "Travel",
+            "colorCode": "#FFEB3B"
+        },
+        {
+            "id": "675a1bab-de53-4a66-8216-641e67f4961f",
+            "name": "Hobby",
+            "colorCode": "#F44336"
+        }
+    ],
+    "tasks": [
+        {
+            "id": "e6645d90-f18e-4f8a-901b-e1b903587dda",
+            "title": "Finish Project Report",
+            "description": "Complete the final report for the client",
+            "dueDate": "2025-03-02T15:08:08",
+            "categoryId": "1d4edbb1-8216-49a3-96d5-c8e1e6ac9ede",
+            "isCompleted": false,
+            "createdBy": "1249588e-aea4-4a9e-930d-0778c8669364",
+            "createdDate": "2025-03-03T15:08:08",
+            "updatedBy": "1249588e-aea4-4a9e-930d-0778c8669364",
+            "updatedDate": "2025-03-06T15:08:08"
+        },
+        {
+            "id": "1c11b952-ce18-48a6-ad7f-d153fcf52532",
+            "title": "Buy Groceries",
+            "description": "Get milk, eggs, and vegetables",
+            "dueDate": "2025-03-09T15:08:08",
+            "categoryId": "1addf4d6-48b2-4a86-b5e9-7b9753e7efb2",
+            "isCompleted": false,
+            "createdBy": "1249588e-aea4-4a9e-930d-0778c8669364",
+            "createdDate": "2025-03-07T15:08:08",
+            "updatedBy": "1249588e-aea4-4a9e-930d-0778c8669364",
+            "updatedDate": "2025-03-08T15:08:08"
+        },
+        {
+            "id": "370334e0-d3b4-4ffd-88d7-6ad8af76ab44",
+            "title": "Morning Workout",
+            "description": "Do a 30-minute run",
+            "dueDate": "2025-03-04T15:08:08",
+            "categoryId": "60266f90-43a2-4ae5-bcea-8b2d9f692ffc",
+            "isCompleted": true,
+            "createdBy": "1249588e-aea4-4a9e-930d-0778c8669364",
+            "createdDate": "2025-03-08T15:08:08",
+            "updatedBy": "1249588e-aea4-4a9e-930d-0778c8669364",
+            "updatedDate": "2025-03-04T15:08:08"
+        },
+        {
+            "id": "38d07573-ddaf-4c89-ab5e-f7ad14fad15e",
+            "title": "Read a Book",
+            "description": "Finish reading 'Atomic Habits'",
+            "dueDate": "2025-03-02T15:08:08",
+            "categoryId": "7d1ddddb-979d-4aa8-a560-0533a1ebcb69",
+            "isCompleted": false,
+            "createdBy": "1249588e-aea4-4a9e-930d-0778c8669364",
+            "createdDate": "2025-03-08T15:08:08",
+            "updatedBy": "1249588e-aea4-4a9e-930d-0778c8669364",
+            "updatedDate": "2025-03-06T15:08:08"
+        },
+        {
+            "id": "5ddbe68b-5e79-480d-91bb-125814f59541",
+            "title": "Doctor Appointment",
+            "description": "Visit Dr. Smith at 3 PM",
+            "dueDate": "2025-03-06T15:08:08",
+            "categoryId": "89ea56ab-7754-4ab3-b26d-60d2d29e41a0",
+            "isCompleted": false,
+            "createdBy": "1249588e-aea4-4a9e-930d-0778c8669364",
+            "createdDate": "2025-03-08T15:08:08",
+            "updatedBy": "1249588e-aea4-4a9e-930d-0778c8669364",
+            "updatedDate": "2025-03-03T15:08:08"
+        },
+        {
+            "id": "e285859c-bb61-4e7d-b436-55bf60df0ecf",
+            "title": "Prepare Presentation",
+            "description": "Create slides for Monday's meeting",
+            "dueDate": "2025-03-08T15:08:08",
+            "categoryId": "1d4edbb1-8216-49a3-96d5-c8e1e6ac9ede",
+            "isCompleted": false,
+            "createdBy": "1249588e-aea4-4a9e-930d-0778c8669364",
+            "createdDate": "2025-03-08T15:08:08",
+            "updatedBy": "1249588e-aea4-4a9e-930d-0778c8669364",
+            "updatedDate": "2025-03-08T15:08:08"
+        },
+        {
+            "id": "c2b4f4ce-d6ff-47e3-9bcc-9343259547a4",
+            "title": "Call Mom",
+            "description": "Catch up with mom on the phone",
+            "dueDate": "2025-03-07T15:08:08",
+            "categoryId": "daf4403d-cddb-4b95-b4fa-4a933bf4a58d",
+            "isCompleted": true,
+            "createdBy": "1249588e-aea4-4a9e-930d-0778c8669364",
+            "createdDate": "2025-03-06T15:08:08",
+            "updatedBy": "1249588e-aea4-4a9e-930d-0778c8669364",
+            "updatedDate": "2025-03-08T15:08:08"
+        },
+        {
+            "id": "4d1ae8be-c06a-4ab0-8944-9d9390ebe8e6",
+            "title": "Pay Bills",
+            "description": "Pay electricity and internet bills",
+            "dueDate": "2025-03-09T15:08:08",
+            "categoryId": "f5033245-1cdd-41a7-aef4-de4eb9d8ed05",
+            "isCompleted": false,
+            "createdBy": "1249588e-aea4-4a9e-930d-0778c8669364",
+            "createdDate": "2025-03-09T15:08:08",
+            "updatedBy": "1249588e-aea4-4a9e-930d-0778c8669364",
+            "updatedDate": "2025-03-04T15:08:08"
+        },
+        {
+            "id": "541812df-c784-4055-8b1f-9e40b712df35",
+            "title": "Organize Desk",
+            "description": "Clean and organize workspace",
+            "dueDate": "2025-03-02T15:08:08",
+            "categoryId": "7d1ddddb-979d-4aa8-a560-0533a1ebcb69",
+            "isCompleted": true,
+            "createdBy": "1249588e-aea4-4a9e-930d-0778c8669364",
+            "createdDate": "2025-03-08T15:08:08",
+            "updatedBy": "1249588e-aea4-4a9e-930d-0778c8669364",
+            "updatedDate": "2025-03-06T15:08:08"
+        },
+        {
+            "id": "02656b20-d956-4164-95cf-e69493252c8c",
+            "title": "Watch a Tech Talk",
+            "description": "Watch latest AI advancements on YouTube",
+            "dueDate": "2025-03-04T15:08:08",
+            "categoryId": "f9c02146-66b4-478d-a2ae-bf6000af28a3",
+            "isCompleted": false,
+            "createdBy": "1249588e-aea4-4a9e-930d-0778c8669364",
+            "createdDate": "2025-03-09T15:08:08",
+            "updatedBy": "1249588e-aea4-4a9e-930d-0778c8669364",
+            "updatedDate": "2025-03-07T15:08:08"
+        },
+        {
+            "id": "762ddb83-a254-483f-8e3f-dc26466b140b",
+            "title": "Prepare Lunch",
+            "description": "Cook a healthy meal",
+            "dueDate": "2025-03-09T15:08:08",
+            "categoryId": "7d1ddddb-979d-4aa8-a560-0533a1ebcb69",
+            "isCompleted": true,
+            "createdBy": "1249588e-aea4-4a9e-930d-0778c8669364",
+            "createdDate": "2025-03-04T15:08:08",
+            "updatedBy": "1249588e-aea4-4a9e-930d-0778c8669364",
+            "updatedDate": "2025-03-06T15:08:08"
+        },
+        {
+            "id": "40ac695f-5de0-422d-a887-579014596938",
+            "title": "Team Meeting",
+            "description": "Discuss sprint progress with team",
+            "dueDate": "2025-03-06T15:08:08",
+            "categoryId": "1d4edbb1-8216-49a3-96d5-c8e1e6ac9ede",
+            "isCompleted": false,
+            "createdBy": "1249588e-aea4-4a9e-930d-0778c8669364",
+            "createdDate": "2025-03-04T15:08:08",
+            "updatedBy": "1249588e-aea4-4a9e-930d-0778c8669364",
+            "updatedDate": "2025-03-06T15:08:08"
+        },
+        {
+            "id": "dad4f647-14dd-4f0b-a8b6-efb7b83e0bb7",
+            "title": "Write Blog Post",
+            "description": "Draft an article on productivity tips",
+            "dueDate": "2025-03-06T15:08:08",
+            "categoryId": "9a865d60-0e4a-45c4-acd9-a0ea98e0cfea",
+            "isCompleted": false,
+            "createdBy": "1249588e-aea4-4a9e-930d-0778c8669364",
+            "createdDate": "2025-03-02T15:08:08",
+            "updatedBy": "1249588e-aea4-4a9e-930d-0778c8669364",
+            "updatedDate": "2025-03-06T15:08:08"
+        },
+        {
+            "id": "d6c72433-5cc7-4a9b-9bac-bc30b1132443",
+            "title": "Laundry",
+            "description": "Wash and fold clothes",
+            "dueDate": "2025-03-05T15:08:08",
+            "categoryId": "7d1ddddb-979d-4aa8-a560-0533a1ebcb69",
+            "isCompleted": false,
+            "createdBy": "1249588e-aea4-4a9e-930d-0778c8669364",
+            "createdDate": "2025-03-03T15:08:08",
+            "updatedBy": "1249588e-aea4-4a9e-930d-0778c8669364",
+            "updatedDate": "2025-03-06T15:08:08"
+        },
+        {
+            "id": "a28279d4-57be-48c9-af44-323e06b9acb4",
+            "title": "Meditation",
+            "description": "15 minutes of mindfulness meditation",
+            "dueDate": "2025-03-05T15:08:08",
+            "categoryId": "9047ecf4-cfa0-4bce-ae1d-c5e266d104aa",
+            "isCompleted": true,
+            "createdBy": "1249588e-aea4-4a9e-930d-0778c8669364",
+            "createdDate": "2025-03-08T15:08:08",
+            "updatedBy": "1249588e-aea4-4a9e-930d-0778c8669364",
+            "updatedDate": "2025-03-02T15:08:08"
+        },
+        {
+            "id": "761f78d1-2481-4689-90e5-224cfdacef90",
+            "title": "Fix Bug in Code",
+            "description": "Resolve issue in the API endpoint",
+            "dueDate": "2025-03-06T15:08:08",
+            "categoryId": "1d4edbb1-8216-49a3-96d5-c8e1e6ac9ede",
+            "isCompleted": false,
+            "createdBy": "1249588e-aea4-4a9e-930d-0778c8669364",
+            "createdDate": "2025-03-07T15:08:08",
+            "updatedBy": "1249588e-aea4-4a9e-930d-0778c8669364",
+            "updatedDate": "2025-03-02T15:08:08"
+        },
+        {
+            "id": "12fa460c-d99a-4e3a-9cf7-8d3a55c908d5",
+            "title": "Plan Weekend Trip",
+            "description": "Research places to visit",
+            "dueDate": "2025-03-02T15:08:08",
+            "categoryId": "19720198-be8d-48fa-bd96-9b14c2329f83",
+            "isCompleted": true,
+            "createdBy": "1249588e-aea4-4a9e-930d-0778c8669364",
+            "createdDate": "2025-03-07T15:08:08",
+            "updatedBy": "1249588e-aea4-4a9e-930d-0778c8669364",
+            "updatedDate": "2025-03-09T15:08:08"
+        },
+        {
+            "id": "94a5030a-a0f0-4b95-956d-d1793fe3f0c3",
+            "title": "Practice Guitar",
+            "description": "Learn new chords",
+            "dueDate": "2025-03-03T15:08:08",
+            "categoryId": "675a1bab-de53-4a66-8216-641e67f4961f",
+            "isCompleted": false,
+            "createdBy": "1249588e-aea4-4a9e-930d-0778c8669364",
+            "createdDate": "2025-03-09T15:08:08",
+            "updatedBy": "1249588e-aea4-4a9e-930d-0778c8669364",
+            "updatedDate": "2025-03-05T15:08:08"
+        },
+        {
+            "id": "43def15d-9891-4d50-bf29-cd8d6e80c186",
+            "title": "Schedule Dentist Appointment",
+            "description": "Book a check-up for next week",
+            "dueDate": "2025-03-06T15:08:08",
+            "categoryId": "89ea56ab-7754-4ab3-b26d-60d2d29e41a0",
+            "isCompleted": false,
+            "createdBy": "1249588e-aea4-4a9e-930d-0778c8669364",
+            "createdDate": "2025-03-09T15:08:08",
+            "updatedBy": "1249588e-aea4-4a9e-930d-0778c8669364",
+            "updatedDate": "2025-03-04T15:08:08"
+        },
+        {
+            "id": "cddbac39-df01-40f7-8cb8-96090cab35b4",
+            "title": "Back Up Files",
+            "description": "Save important files to cloud storage",
+            "dueDate": "2025-03-06T15:08:08",
+            "categoryId": "1d4edbb1-8216-49a3-96d5-c8e1e6ac9ede",
+            "isCompleted": true,
+            "createdBy": "1249588e-aea4-4a9e-930d-0778c8669364",
+            "createdDate": "2025-03-08T15:08:08",
+            "updatedBy": "1249588e-aea4-4a9e-930d-0778c8669364",
+            "updatedDate": "2025-03-07T15:08:08"
+        }
+    ]
+}
