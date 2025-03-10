@@ -16,12 +16,23 @@ if (!fs.existsSync(DB_DIR)) {
 
 server.use(middlewares);
 
+// Helper function to validate GUID format
+function isValidGUID(guid) {
+  const guidRegex = /^[0-9a-f]{8}-[0-9a-f]{4}-[1-5][0-9a-f]{3}-[89ab][0-9a-f]{3}-[0-9a-f]{12}$/i;
+  return guidRegex.test(guid);
+}
+
 // Handle database switching and routing in a single middleware
 server.use((req, res, next) => {
   const dbName = req.header('X-DB-NAME');
   
   if (!dbName) {
     return res.status(400).json({ error: 'X-DB-NAME header is required' });
+  }
+  
+  // Validate that dbName is in GUID format
+  if (!isValidGUID(dbName)) {
+    return res.status(400).json({ error: 'X-DB-NAME must be a valid GUID' });
   }
   
   const dbPath = path.join(DB_DIR, `${dbName}.json`);
